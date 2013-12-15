@@ -1,0 +1,124 @@
+#wrapper {
+	margin: 0;
+
+}
+
+#pagewrap {
+	margin: 0 auto;
+	width: 1140px;
+}
+
+body {
+	background-color: #454545;
+	color: #ffffff;
+	margin: 0;
+}
+
+#heading {
+	height: 200px;
+	width: 1140px;
+	background-image: url(../images/banner.png);
+
+}
+
+#imagewrap {
+	padding-top: 50px;
+	margin: 0 auto;
+	height: auto;
+	width: 900px;
+}
+
+#leftnav {
+	height: 400px;
+	width: 200px;
+	float: left;
+}
+
+#main {
+	height: 550px;
+	width: 733px;
+	float: left;
+	overflow: hidden;
+	background-image: url(../images/content_background.png);
+	background-repeat: no-repeat;
+}
+
+
+#rightnav {
+	height: 400px;
+	width: 200px;
+	float: right;
+	padding-top: 40px;
+}
+
+#homebutton {
+	height: 180px;
+	width: 180px;
+	margin: 0 auto;
+}
+
+#homebuttonright {
+	height: 180px;
+	width: 180px;
+	margin: 0 auto;
+	padding: 20px; 
+}
+
+#experiencebutton {
+	height: 180px;
+	width: 180px;
+	margin: 0 auto;
+}
+
+#educationbutton {
+	height: 180px;
+	width: 180px;
+	margin: 0 auto;
+}
+
+#contactbutton {
+	height: 180px;
+	width: 180px;
+	margin: 0 auto;
+}
+
+#text {
+	text-align: center;
+	color: #604242;
+}
+
+#text h1 {
+	font-family: "open sans", sans-serif;
+	font-size: 26px;
+	padding-top: 60px;
+}
+
+#text p {
+	font-family: "open sans", sans-serif;
+	font-size: 20px;
+	padding-left: 70px;
+	padding-right: 70px;
+}
+
+#footer {
+	clear: both;
+	height: 40px;
+	margin: 0 auto;
+	background-color: #000010;
+	border-top: 5px solid #030330;
+	clear: both;
+}
+
+#footer_content {
+	width: 1140px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#mainexp {
+	background-image: url(../images/expbackground.png);
+	height: 800px;
+	width: 733px;
+	float: left;
+	overflow: hidden;
+}

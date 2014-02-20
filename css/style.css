@@ -43,6 +43,16 @@ body {
 	background-repeat: no-repeat;
 }
 
+#main2 {
+	height: 900px;
+	width: 733px;
+	float: left;
+	overflow: hidden;
+	background-image: url(../images/about_background.png);
+	background-repeat: no-repeat;
+}
+
+
 
 #rightnav {
 	height: 400px;
@@ -84,20 +94,21 @@ body {
 
 #text {
 	text-align: center;
-	color: #604242;
+	color: #000000;
+	font-family: "Audiowide", sans-serif;
 }
 
 #text h1 {
-	font-family: "open sans", sans-serif;
-	font-size: 26px;
+	font-family: "Audiowide", sans-serif;
+	font-size: 28px;
 	padding-top: 60px;
 }
 
 #text p {
-	font-family: "open sans", sans-serif;
+	font-family: "Rum Raisin", sans-serif;
 	font-size: 20px;
-	padding-left: 70px;
-	padding-right: 70px;
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
 #footer {
